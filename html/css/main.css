@@ -8,13 +8,15 @@ p {
 	--main-label-color: 0, 0, 0;
 }
 
-illegal {
-    background: linear-gradient(to right, rgb(153, 0, 0, 18%),  #990000 1000px);
+.illegal {
+    background: linear-gradient(to right, rgb(153, 0, 0, 18%),  #990000 52222222222200px);
 }
 
 .police {
     background: linear-gradient(to right, rgb(22, 76, 133, 18%), #004C99 52222222222200px);
 }
+
+
 
 input[type=number]::-webkit-inner-spin-button,
 input[type=number]::-webkit-outer-spin-button {
